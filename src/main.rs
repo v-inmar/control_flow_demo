@@ -45,3 +45,29 @@ fn main() {
         println!("for loop number is: {}", i);
     }
 }
+
+/*
+Chapter 3 Quiz
+
+    1. What keyword starts an infinite loop in Rust?
+
+    2. What’s the difference between if and match?
+
+    3. What loop would you use to iterate over a range?
+
+    4. What does the _ symbol mean in a match block?
+
+
+Answers:
+1. the keyword is 'loop'
+
+2. if checks for boolean conditions; match compares pattern and values
+
+3. to iterate over a range, for loop is best as to not go out of bounds
+
+4. it is a catch-all/default case for match pattern
+
+
+
+
+*/
